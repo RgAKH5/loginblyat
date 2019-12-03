@@ -1,5 +1,0 @@
-print("hello world")
-print("windroid 1.1 corp® taon 2019-an:v")
-print("dibuat dari hp xiaomay redmi note 5A codename: ugglite")
-nama_lu = input("blyat : ")
-print("Hello "+ nama_lu)
